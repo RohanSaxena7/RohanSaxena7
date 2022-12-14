@@ -8,6 +8,7 @@
 - 📩 Mail me at : rohansaxena711@gmail.com
 - 📫 Message me on Discord : *Ichigo#7307*
 - 🐤 Reach out to me on Twitter : [@ichigAUGHHH](https://twitter.com/ichigAUGHHH)
+- 🙌 Checkout my portfolio in linktree : [@rohansaxena7](linktr.ee/rohansaxena7)
 
 <h3 align="left">Social Media:</h3>
 <a href="https://twitter.com/ichigAUGHHH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichigAUGHHH" height="30" width="40" /></a>
