@@ -1,5 +1,5 @@
 ### Hello, I am Rohan Saxena
-### I am an aspiring game designer
+### Machine Learning, Gen AI, Deep Learning and Game Development
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaxena7&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaxena7" /> </p>
 
@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **HTML**, **CSS** and **JavaScript**.
 - 📩 Mail me at : rohansaxena711@gmail.com
 - 📫 Message me on Discord : *Ichigo#7307*
-- 🐤 Reach out to me on Twitter : [@ichigAUGHHH](https://twitter.com/ichigAUGHHH)
-- 🙌 Checkout my portfolio on linktree : [@rohansaxena7](https://linktr.ee/rohansaxena7)
+  
+  
 
 <h3 align="left">Social Media:</h3>
 <a href="https://twitter.com/ichigAUGHHH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichigAUGHHH" height="30" width="40" /></a>
