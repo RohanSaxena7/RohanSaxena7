@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaxena7&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaxena7" /> </p>
 
-- 👾 I’m currently working on **Unity** and **Aseprite**.
-- 🌱 I’m currently learning **HTML**, **CSS** and **JavaScript**.
+- 👾 I’m currently working on **GenAI** and **NLP**.
+- 🌱 I’m currently learning **RNN**, **HuggingFace** and **LangChain**.
 - 📩 Mail me at : rohansaxena711@gmail.com
 - 📫 Message me on Discord : *Ichigo#7307*
   
